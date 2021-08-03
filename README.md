@@ -47,14 +47,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/watch?v=x8HNcal4fw0)
-- [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/watch?v=Uf44SDEl1HM)
-- [STACKr News Shorts - Issue 4 - How to learn Git slowly](https://www.youtube.com/watch?v=lLGVf4vjo9E)
-- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
+- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/c/TSUKE大翔)
+- [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/c/TSUKE大翔)
+- [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/c/TSUKE大翔)
+- [STACKr News Shorts - Issue 4 - How to learn Git slowly](https://www.youtube.com/c/TSUKE大翔)
+- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/c/TSUKE大翔)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/c/TSUKE大翔)
 
 ---
 
