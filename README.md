@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | WhatsApp" width="25px" src="https://findicons.com/files/icons/2779/simple_icons/4096/whatsapp_4096_black.png" />][WhatsApp]
+[<img align="left" alt="codeSTACKr | WhatsApp" width="22px" src="https://clipground.com/images/whatsapp-logo-black-png-7.png" />][WhatsApp]
 
 <br />
 
