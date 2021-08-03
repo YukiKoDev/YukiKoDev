@@ -97,7 +97,7 @@
 [twitter]: https://twitter.com/YukiKoDev1
 [youtube]: https://www.youtube.com/c/TSUKE大翔
 [instagram]: https://www.instagram.com/snailyy77/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/yukiko-dev-691340219/
 [webdevplaylist]: https://seputarps3.blogspot.com
 [jsplaylist]: hhttps://seputarps3.blogspot.com
 [cssplaylist]: https://seputarps3.blogspot.com
