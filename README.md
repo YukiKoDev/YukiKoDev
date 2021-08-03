@@ -96,7 +96,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/YukiKoDev1
 [youtube]: https://www.youtube.com/c/TSUKE大翔
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/snailyy77/
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://seputarps3.blogspot.com
 [jsplaylist]: hhttps://seputarps3.blogspot.com
